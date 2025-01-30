@@ -17,7 +17,7 @@ const Contact = () => {
           className="qr relative w-[300px] aspect-square max-w-[70vw] opacity-90 overflow-hidden"
         >
           <a
-            href="https://drive.google.com/file/d/1Grcwj7AaFrL2kIuH0zhRlaSgnIkxLySh/view?usp=sharing"
+            href="https://drive.google.com/file/d/1-uQmgTk3E7Sef6MMeq30Rj8zgv1N3HT8/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
