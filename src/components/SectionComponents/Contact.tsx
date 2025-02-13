@@ -50,7 +50,7 @@ const Contact = () => {
               duration: 0.9,
             }}
           >
-            youngswadhin@gmail.com
+            swadhinmuduli07@gmail.com
           </motion.div>
           <div className="links flex gap-5 pr-10 items-center justify-center ml-10 md:ml-0">
             <motion.a
